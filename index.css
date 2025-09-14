@@ -181,6 +181,7 @@ tr:last-child td {
     max-width: 600px;
     border-radius: 10px;
     height: fit-content;
+    margin: 36px 0 36px 0;
   }
 
   img {
